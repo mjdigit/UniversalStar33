@@ -81,7 +81,7 @@
 	(footprint "isw-kbd:M2_ScrewHole"
 		(layer "F.Cu")
 		(uuid "7a0c1160-bc36-43bb-9c7c-30b5b7de97c0")
-		(at 281 75)
+		(at 281 83.3)
 		(descr "Mounting Hole 2.2mm, no annular, M2")
 		(tags "mounting hole 2.2mm no annular m2")
 		(property "Reference" "Ref**"
@@ -306,7 +306,7 @@
 	(footprint "isw-kbd:M2_ScrewHole"
 		(layer "F.Cu")
 		(uuid "f6ecf953-ea93-4eee-a3e9-c18933a61e70")
-		(at 16 75)
+		(at 16 83.3)
 		(descr "Mounting Hole 2.2mm, no annular, M2")
 		(tags "mounting hole 2.2mm no annular m2")
 		(property "Reference" "Ref**"
@@ -381,7 +381,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "05490106-736d-45f0-8715-4cd9df836312")
-		(at 105.65 29.6 180)
+		(at 105.65 33.6 180)
 		(property "Reference" "SW17"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -603,7 +603,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "06e6d187-d2a4-4010-89b0-6cca9f5f48ac")
-		(at 210.4255 48.65 180)
+		(at 210.4255 52.65 180)
 		(property "Reference" "SW27"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -825,7 +825,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "083d7f49-cb4b-4ad8-9db1-e74a02b6efd5")
-		(at 191.3755 67.7 180)
+		(at 191.3755 71.7 180)
 		(property "Reference" "SW24"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -1047,7 +1047,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "09fc1e53-6785-47cf-b6f0-c01e05a65570")
-		(at 267.5755 29.6 180)
+		(at 267.5755 33.6 180)
 		(property "Reference" "SW38"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -1269,7 +1269,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "0bbff056-72ec-41b0-bcc8-3b4e707237e4")
-		(at 267.5755 48.65 180)
+		(at 267.5755 52.65 180)
 		(property "Reference" "SW39"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -1491,7 +1491,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "0ca9f937-9207-4d07-9656-bd994da17be9")
-		(at 29.45 29.6 180)
+		(at 29.45 33.6 180)
 		(property "Reference" "SW1"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -1713,7 +1713,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "14c7abd3-a9f5-4f5f-9308-c3ad277519a2")
-		(at 48.5 48.65 180)
+		(at 48.5 52.65 180)
 		(property "Reference" "SW6"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -1935,7 +1935,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "159e6bce-98e0-46f3-8294-d212f16bb01c")
-		(at 67.55 29.6 180)
+		(at 67.55 33.6 180)
 		(property "Reference" "SW9"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -2157,7 +2157,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "1d287e14-ea84-41f3-bf3c-003bedf3e9cb")
-		(at 248.5255 48.65 180)
+		(at 248.5255 52.65 180)
 		(property "Reference" "SW35"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -2379,7 +2379,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "28ad68dd-c36d-4467-88b3-2336036c5338")
-		(at 48.5 29.6 180)
+		(at 48.5 33.6 180)
 		(property "Reference" "SW5"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -2601,7 +2601,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "2dc3fde5-dabc-4051-b836-0473cd2d6145")
-		(at 248.5255 29.6 180)
+		(at 248.5255 33.6 180)
 		(property "Reference" "SW34"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -2823,7 +2823,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "49884a48-ca24-4d83-b118-9e48b9522c1f")
-		(at 67.55 48.65 180)
+		(at 67.55 52.65 180)
 		(property "Reference" "SW10"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -3045,7 +3045,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "58724ed5-f3b9-4695-abe8-06aac62de5ce")
-		(at 229.4755 29.6 180)
+		(at 229.4755 33.6 180)
 		(property "Reference" "SW30"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -3267,7 +3267,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "62af0839-67ad-414f-801b-6cd3b3a89ada")
-		(at 105.65 67.7 180)
+		(at 105.65 71.7 180)
 		(property "Reference" "SW19"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -3489,7 +3489,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "65a69ed2-5290-49e2-812e-ec997692f757")
-		(at 48.5 67.7 180)
+		(at 48.5 71.7 180)
 		(property "Reference" "SW7"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -3711,7 +3711,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "6ce10657-2bf7-40e3-8536-7d8333cfb5aa")
-		(at 248.5255 67.7 180)
+		(at 248.5255 71.7 180)
 		(property "Reference" "SW36"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -3933,7 +3933,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "70ae2638-cb49-4446-8f83-de38858c21a3")
-		(at 86.6 48.65 180)
+		(at 86.6 52.65 180)
 		(property "Reference" "SW14"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -4155,7 +4155,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "77c66fa6-0a1b-415d-915f-47b469f60cd1")
-		(at 167.55 67.7 180)
+		(at 172.3255 71.7 180)
 		(property "Reference" "SW29"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -4375,7 +4375,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "79999d52-4971-4372-be98-7fb906502ad2")
-		(at 29.45 48.65 180)
+		(at 29.45 52.65 180)
 		(property "Reference" "SW2"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -4597,7 +4597,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "8e9f9631-0ebb-41f8-8409-2c213676bce5")
-		(at 67.55 67.7 180)
+		(at 67.55 71.7 180)
 		(property "Reference" "SW11"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -4819,7 +4819,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "95e2288d-1e80-42a0-bb16-6188aa631af1")
-		(at 129.45 67.7 180)
+		(at 134.2255 71.7 180)
 		(property "Reference" "SW20"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -5041,7 +5041,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "960b56fb-403d-41ad-a143-00de514c6dcf")
-		(at 29.45 67.7 180)
+		(at 29.45 71.7 180)
 		(property "Reference" "SW3"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -5263,7 +5263,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "98cde3eb-de5a-4868-92a5-2c0d6c6bf739")
-		(at 229.4755 48.65 180)
+		(at 229.4755 52.65 180)
 		(property "Reference" "SW31"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -5485,7 +5485,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "9b68ca34-a565-4289-84b1-4e09b75bac2f")
-		(at 86.6 67.7 180)
+		(at 86.6 71.7 180)
 		(property "Reference" "SW15"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -5707,7 +5707,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "a139d05e-240d-40d8-9f1c-f12c14eb22e2")
-		(at 229.4755 67.7 180)
+		(at 229.4755 71.7 180)
 		(property "Reference" "SW32"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -5929,7 +5929,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "bec22b11-a1b8-4ea1-acf9-356903435f96")
-		(at 210.4255 67.7 180)
+		(at 210.4255 71.7 180)
 		(property "Reference" "SW28"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -6151,7 +6151,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "c5aa5ed9-6db2-4616-a62e-fa665687a256")
-		(at 191.3755 29.6 180)
+		(at 191.3755 33.6 180)
 		(property "Reference" "SW22"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -6373,7 +6373,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "ca0edb8a-c3a1-4b69-b550-4389be764326")
-		(at 148.5 67.7 180)
+		(at 153.2755 71.7 180)
 		(property "Reference" "SW25"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -6595,7 +6595,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "dec1d64d-aa37-4d82-82a2-cb9cedd4b17f")
-		(at 191.3755 48.65 180)
+		(at 191.3755 52.65 180)
 		(property "Reference" "SW23"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -6817,7 +6817,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "e00b9784-504a-4b95-8825-91939547ffc6")
-		(at 86.6 29.6 180)
+		(at 86.6 33.6 180)
 		(property "Reference" "SW13"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -7039,7 +7039,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "e10da9c3-e899-43a8-9154-aab5a17edf0a")
-		(at 267.5755 67.7 180)
+		(at 267.5755 71.7 180)
 		(property "Reference" "SW40"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -7261,7 +7261,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "e40242a7-78f2-4d05-9ddf-1471e6af7f9c")
-		(at 210.4255 29.6 180)
+		(at 210.4255 33.6 180)
 		(property "Reference" "SW26"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -7483,7 +7483,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u_JLC"
 		(layer "B.Cu")
 		(uuid "fafdac12-fb8c-42d0-9a19-d0c87ff4f0cb")
-		(at 105.65 48.65 180)
+		(at 105.65 52.65 180)
 		(property "Reference" "SW18"
 			(at 7 -8.1 0)
 			(layer "B.SilkS")
@@ -7891,9 +7891,9 @@
 		(uuid "51396c04-cdbc-43cb-9750-33558a7d861f")
 	)
 	(gr_arc
-		(start 15.5 77.5)
-		(mid 14.085786 76.914214)
-		(end 13.5 75.5)
+		(start 15.5 85.8)
+		(mid 14.085786 85.214214)
+		(end 13.5 83.8)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -7912,9 +7912,9 @@
 		(uuid "7528991f-a53e-4766-a6dd-43cb9c66c959")
 	)
 	(gr_arc
-		(start 283.5 75.5)
-		(mid 282.914214 76.914214)
-		(end 281.5 77.5)
+		(start 283.5 83.8)
+		(mid 282.914214 85.214214)
+		(end 281.5 85.8)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -7964,8 +7964,8 @@
 		(uuid "9cb16d5d-dfac-4a47-bf3c-cfca0fe989bd")
 	)
 	(gr_line
-		(start 15.5 77.5)
-		(end 281.5 77.5)
+		(start 15.5 85.8)
+		(end 281.5 85.8)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -7975,7 +7975,7 @@
 	)
 	(gr_line
 		(start 283.5 21.5)
-		(end 283.5 75.5)
+		(end 283.5 83.8)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -8005,7 +8005,7 @@
 	)
 	(gr_line
 		(start 13.5 21.5)
-		(end 13.5 75.5)
+		(end 13.5 83.8)
 		(stroke
 			(width 0.05)
 			(type solid)
