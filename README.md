@@ -14,10 +14,15 @@ touchpad.
 
 ## Current design status
 
-The initial KiCad and QMK sources were migrated from
-[Girasole40](https://github.com/mjdigit/Girasole40) as a reference baseline.
-The migrated hardware is still the original 40-key/TPS65 design; the 33-key
-layout and TPS43 conversion will be applied in subsequent revisions.
+The KiCad schematic, main PCB key array and outline, top/bottom plates, QMK
+layout, and KLE layout have been converted to the 33-key arrangement. The
+logical matrix remains 4 rows by 10 columns; its fourth matrix row is used
+only by the three center keys, avoiding any GPIO reassignment. FPC1 has a
+provisional back-side position above the center keys.
+
+The TPS43 opening and mounting details, TPS43 electrical configuration, final
+FPC placement/routing, moving R1/R2/C1 to the back, and the case still require
+conversion from the original Girasole40/TPS65 baseline.
 
 Open `assemble/UniversalStar33_Assemble.kicad_pro` in KiCad to inspect the
 current main schematic and PCB.

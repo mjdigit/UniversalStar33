@@ -1830,12 +1830,6 @@
 		(uuid "6f568273-faa1-4407-8ab6-71214f4aaa68")
 	)
 	(junction
-		(at 38.1 160.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "78fdf465-5180-4941-8ac3-3e6ff1b54d0f")
-	)
-	(junction
 		(at 234.95 140.97)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1890,12 +1884,6 @@
 		(uuid "a9eb5b4f-dd3a-4ba1-aaee-44ea0e73105f")
 	)
 	(junction
-		(at 256.54 160.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b40aac75-a45f-44ef-8a5c-c7c419a5f6b1")
-	)
-	(junction
 		(at 256.54 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1912,12 +1900,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ba41d677-8348-484c-ba05-2817a09c5101")
-	)
-	(junction
-		(at 104.14 160.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bad3ba3c-d083-49bf-a316-204d3597ce53")
 	)
 	(junction
 		(at 45.72 95.25)
@@ -1968,12 +1950,6 @@
 		(uuid "d0f70030-f88c-4e24-95bf-1fb2516c0d61")
 	)
 	(junction
-		(at 234.95 160.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d57acf3d-64b6-4c3a-81d8-fdb7dc792671")
-	)
-	(junction
 		(at 110.49 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1992,22 +1968,10 @@
 		(uuid "da2f0dbf-6fcb-463b-a795-55e0e17c4bde")
 	)
 	(junction
-		(at 60.96 160.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dbd38dee-c58e-4379-880b-b70a51e99bca")
-	)
-	(junction
 		(at 219.71 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dbedf422-d2b3-4db4-9d2b-3f4aa9809d12")
-	)
-	(junction
-		(at 82.55 160.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e86d2c15-3d4f-405a-87fc-f93b1a01564b")
 	)
 	(junction
 		(at 190.5 102.87)
@@ -2155,26 +2119,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 160.02) (xy 278.13 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0fef10bc-308e-4bef-b744-2e7fb054f3ee")
-	)
-	(wire
-		(pts
-			(xy 38.1 160.02) (xy 60.96 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11c3d2be-41f4-4f19-b9eb-68e66349645b")
-	)
-	(wire
-		(pts
 			(xy 234.95 140.97) (xy 256.54 140.97)
 		)
 		(stroke
@@ -2202,26 +2146,6 @@
 			(type default)
 		)
 		(uuid "184fcf02-8bd2-409c-bcc8-1746471538c8")
-	)
-	(wire
-		(pts
-			(xy 234.95 160.02) (xy 256.54 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "194a0ec7-f454-4a12-a783-e997fb883fa8")
-	)
-	(wire
-		(pts
-			(xy 262.89 133.35) (xy 262.89 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "19b8db44-386e-404d-bbe3-c5833f98a7a6")
 	)
 	(wire
 		(pts
@@ -2285,16 +2209,6 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 160.02) (xy 213.36 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "29d13db5-4031-4a28-b4b7-c0cb50e788d8")
-	)
-	(wire
-		(pts
 			(xy 31.75 35.56) (xy 35.56 35.56)
 		)
 		(stroke
@@ -2322,26 +2236,6 @@
 			(type default)
 		)
 		(uuid "2f87e20d-ad07-4bf6-b354-920257262f2b")
-	)
-	(wire
-		(pts
-			(xy 82.55 160.02) (xy 104.14 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3117ff66-3819-492d-b9eb-26e444a9f077")
-	)
-	(wire
-		(pts
-			(xy 20.32 160.02) (xy 38.1 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3257cf59-35fc-44db-a0af-6d904b280bde")
 	)
 	(wire
 		(pts
@@ -2475,16 +2369,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 160.02) (xy 190.5 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59079050-59c6-4430-80a9-c5092bc96fea")
-	)
-	(wire
-		(pts
 			(xy 241.3 114.3) (xy 241.3 133.35)
 		)
 		(stroke
@@ -2555,16 +2439,6 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 133.35) (xy 45.72 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "689317bc-56ff-4ad7-acbc-7e02dd3f640e")
-	)
-	(wire
-		(pts
 			(xy 123.19 46.99) (xy 123.19 45.72)
 		)
 		(stroke
@@ -2582,16 +2456,6 @@
 			(type default)
 		)
 		(uuid "69417be3-36c8-4cab-9047-c89c21420354")
-	)
-	(wire
-		(pts
-			(xy 213.36 160.02) (xy 234.95 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6950c926-fde8-449b-97fa-fe68e4efb081")
 	)
 	(wire
 		(pts
@@ -2652,16 +2516,6 @@
 			(type default)
 		)
 		(uuid "7708dcdb-f4a5-4ec6-baa0-6ef59e788962")
-	)
-	(wire
-		(pts
-			(xy 22.86 133.35) (xy 22.86 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a232165-00bd-49b6-aff9-156f7cad4459")
 	)
 	(wire
 		(pts
@@ -2875,16 +2729,6 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 133.35) (xy 241.3 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8d9cd2d-7668-4e0c-a029-bb1b01f5a9e7")
-	)
-	(wire
-		(pts
 			(xy 119.38 35.56) (xy 120.65 35.56)
 		)
 		(stroke
@@ -2962,16 +2806,6 @@
 			(type default)
 		)
 		(uuid "b229daa2-572e-4884-a214-578058e33e3b")
-	)
-	(wire
-		(pts
-			(xy 67.31 133.35) (xy 67.31 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b703054d-087b-43ed-8ea4-ded572c46645")
 	)
 	(wire
 		(pts
@@ -3065,16 +2899,6 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 160.02) (xy 125.73 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d161c946-ff34-486f-9148-7b76bbf82ab7")
-	)
-	(wire
-		(pts
 			(xy 60.96 48.26) (xy 64.77 48.26)
 		)
 		(stroke
@@ -3102,16 +2926,6 @@
 			(type default)
 		)
 		(uuid "d5130539-0a93-4e95-9034-92792c0e13d1")
-	)
-	(wire
-		(pts
-			(xy 88.9 133.35) (xy 88.9 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d81cfe05-dd56-435e-a03a-0ee995a43fd6")
 	)
 	(wire
 		(pts
@@ -3145,16 +2959,6 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 160.02) (xy 82.55 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "def6bccf-53cc-4b57-a9db-0568cf0e1003")
-	)
-	(wire
-		(pts
 			(xy 38.1 140.97) (xy 60.96 140.97)
 		)
 		(stroke
@@ -3172,16 +2976,6 @@
 			(type default)
 		)
 		(uuid "e461377a-d9f4-4650-a705-0ea06a28c89c")
-	)
-	(wire
-		(pts
-			(xy 219.71 133.35) (xy 219.71 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e857076e-cafc-413c-b799-8583dfbd2bbe")
 	)
 	(wire
 		(pts
@@ -3405,6 +3199,36 @@
 			)
 		)
 	)
+	(wire
+		(pts
+			(xy 20.32 160.02) (xy 125.73 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a4c303f-532c-4de1-8155-56927376a461")
+	)
+	(wire
+		(pts
+			(xy 125.73 160.02) (xy 190.5 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "095659f8-77de-4cf9-8b5e-5e81c199410a")
+	)
+	(wire
+		(pts
+			(xy 190.5 160.02) (xy 213.36 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5909f042-53be-41f3-b386-7d5d4ddeecef")
+	)
 	(global_label "Row3"
 		(shape input)
 		(at 64.77 48.26 0)
@@ -3536,6 +3360,36 @@
 				(hide yes)
 			)
 		)
+	)
+	(wire
+		(pts
+			(xy 20.32 160.02) (xy 125.73 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17362a71-2b5c-46ac-8da0-69affd753b2d")
+	)
+	(wire
+		(pts
+			(xy 125.73 160.02) (xy 190.5 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5df113f4-3050-4537-8102-d35861a9dc83")
+	)
+	(wire
+		(pts
+			(xy 190.5 160.02) (xy 213.36 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63b40239-be37-45d9-b108-91626d263277")
 	)
 	(global_label "Row3"
 		(shape input)
@@ -4089,72 +3943,6 @@
 	)
 	(symbol
 		(lib_id "kbd:SW_PUSH")
-		(at 30.48 152.4 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "04a8f56c-ab39-4a3c-931e-b3d4804ccb81")
-		(property "Reference" "SW4"
-			(at 30.48 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_PUSH"
-			(at 30.48 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "kbd_SW_PCBA:Choc_v2_Hotswap_1.25u"
-			(at 30.48 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 30.48 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 30.48 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4a0ace29-b9f8-4775-85d4-6b8b974783d1")
-		)
-		(pin "1"
-			(uuid "411794ea-52be-48d1-84a9-8ff44f0409bb")
-		)
-		(instances
-			(project ""
-				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
-					(reference "SW4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "kbd:SW_PUSH")
 		(at 30.48 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4214,269 +4002,6 @@
 			(project ""
 				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
 					(reference "SW3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 256.54 156.21 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "07409301-2589-4ecd-a513-691e60f2643c")
-		(property "Reference" "D37"
-			(at 259.08 154.9399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 259.08 157.4799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
-			(at 256.54 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 256.54 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 256.54 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 256.54 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 256.54 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "16a6377c-fc6d-4e0f-b852-d050626808ea")
-		)
-		(pin "1"
-			(uuid "bf53ee2b-bb03-460f-a014-767de43dac05")
-		)
-		(instances
-			(project "UniversalStar33_Assemble"
-				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
-					(reference "D37")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 278.13 156.21 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0bae4b6c-eaf1-4d75-b742-7273e7ab5f0f")
-		(property "Reference" "D41"
-			(at 280.67 154.9399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 280.67 157.4799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
-			(at 278.13 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 278.13 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 278.13 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 278.13 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 278.13 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e37f5330-2698-4086-b2fc-1035511f773c")
-		)
-		(pin "1"
-			(uuid "0b5a8cf9-056c-40af-817d-ddf2edfaffda")
-		)
-		(instances
-			(project "UniversalStar33_Assemble"
-				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
-					(reference "D41")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 82.55 156.21 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0cbafe9a-2f10-47f8-ba6e-f47c7a8af94c")
-		(property "Reference" "D12"
-			(at 81.28 154.9399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 85.09 157.4799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
-			(at 82.55 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 82.55 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 82.55 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 82.55 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 82.55 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "55430b77-4888-4bc3-ba7a-ace794a8af59")
-		)
-		(pin "1"
-			(uuid "551ad69a-5887-4bb8-ab42-1d05c43d325f")
-		)
-		(instances
-			(project "UniversalStar33_Assemble"
-				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
-					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -4630,94 +4155,6 @@
 			(project "UniversalStar33_Assemble"
 				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
 					(reference "D6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 234.95 156.21 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "14ece766-146f-47e7-aa93-e62c566934b4")
-		(property "Reference" "D33"
-			(at 237.49 154.9399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 237.49 157.4799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
-			(at 234.95 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 234.95 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 234.95 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 234.95 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 234.95 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4f9da17c-2dbe-47e4-bdb5-dc5824ae121c")
-		)
-		(pin "1"
-			(uuid "fd2797f5-aad3-4c2c-b036-d5f5eda64acc")
-		)
-		(instances
-			(project "UniversalStar33_Assemble"
-				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
-					(reference "D33")
 					(unit 1)
 				)
 			)
@@ -5099,72 +4536,6 @@
 	)
 	(symbol
 		(lib_id "kbd:SW_PUSH")
-		(at 248.92 152.4 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "24157cb1-e988-4834-9d16-19379be5f09c")
-		(property "Reference" "SW37"
-			(at 248.92 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_PUSH"
-			(at 248.92 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "kbd_SW_PCBA:Choc_v2_Hotswap_1u"
-			(at 248.92 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 248.92 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 248.92 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4a0ace29-b9f8-4775-85d4-6b8b974783d7")
-		)
-		(pin "1"
-			(uuid "411794ea-52be-48d1-84a9-8ff44f0409c1")
-		)
-		(instances
-			(project ""
-				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
-					(reference "SW37")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "kbd:SW_PUSH")
 		(at 227.33 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5290,94 +4661,6 @@
 			(project ""
 				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
 					(reference "SW11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 104.14 156.21 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2dbb7128-5b1b-40fe-87db-b5c2d56a73a6")
-		(property "Reference" "D16"
-			(at 106.68 154.9399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 106.68 157.4799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
-			(at 104.14 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 104.14 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 104.14 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 104.14 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 104.14 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0dd897c7-f128-4386-b23b-d5ce5922788a")
-		)
-		(pin "1"
-			(uuid "b8494ea9-7280-4862-95ad-ead8f8c625a7")
-		)
-		(instances
-			(project "UniversalStar33_Assemble"
-				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
-					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -5664,72 +4947,6 @@
 			(project ""
 				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
 					(reference "SW29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "kbd:SW_PUSH")
-		(at 96.52 152.4 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3d89b1f1-d308-40d3-9c57-3fbc4550648a")
-		(property "Reference" "SW16"
-			(at 96.52 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_PUSH"
-			(at 96.52 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "kbd_SW_PCBA:Choc_v2_Hotswap_1.25u"
-			(at 96.52 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 96.52 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 96.52 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4a0ace29-b9f8-4775-85d4-6b8b974783dd")
-		)
-		(pin "1"
-			(uuid "411794ea-52be-48d1-84a9-8ff44f0409c7")
-		)
-		(instances
-			(project ""
-				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
-					(reference "SW16")
 					(unit 1)
 				)
 			)
@@ -6637,93 +5854,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 60.96 156.21 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "58099ead-c6a8-4aa8-b553-01bb6c0655c5")
-		(property "Reference" "D8"
-			(at 59.69 154.9399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 63.5 157.4799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
-			(at 60.96 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 60.96 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 60.96 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 60.96 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 60.96 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b59413bb-1315-47ad-a72b-439249e0e402")
-		)
-		(pin "1"
-			(uuid "e35fa36e-cf53-44c3-a990-77a2679c59b9")
-		)
-		(instances
-			(project "UniversalStar33_Assemble"
-				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
-					(reference "D8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "kbd:SW_PUSH")
 		(at 74.93 95.25 0)
 		(unit 1)
@@ -7579,72 +6709,6 @@
 			(project ""
 				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
 					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "kbd:SW_PUSH")
-		(at 53.34 152.4 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6e792832-0b10-470b-8226-21673e3c4689")
-		(property "Reference" "SW8"
-			(at 53.34 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_PUSH"
-			(at 53.34 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "kbd_SW_PCBA:Choc_v2_Hotswap_1u"
-			(at 53.34 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 53.34 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 53.34 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4a0ace29-b9f8-4775-85d4-6b8b974783e7")
-		)
-		(pin "1"
-			(uuid "411794ea-52be-48d1-84a9-8ff44f0409d1")
-		)
-		(instances
-			(project ""
-				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
-					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -8817,94 +7881,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 38.1 156.21 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a237ba2c-fde4-4c5f-9bba-5139930b8638")
-		(property "Reference" "D4"
-			(at 40.64 154.9399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 40.64 157.4799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
-			(at 38.1 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 38.1 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 38.1 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 38.1 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 38.1 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "62a791f2-ffc6-4a64-a787-09470164c702")
-		)
-		(pin "1"
-			(uuid "c533173f-f1a5-451a-993e-44c9a8548d56")
-		)
-		(instances
-			(project "UniversalStar33_Assemble"
-				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
-					(reference "D4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "isw-mcu:RP2040-Zero")
 		(at 48.26 38.1 0)
 		(unit 1)
@@ -9827,138 +8803,6 @@
 		)
 	)
 	(symbol
-		(lib_id "kbd:SW_PUSH")
-		(at 227.33 152.4 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c6dd7bcd-1cd2-45b0-a0d5-1e1d6b3c0606")
-		(property "Reference" "SW33"
-			(at 227.33 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_PUSH"
-			(at 227.33 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "kbd_SW_PCBA:Choc_v2_Hotswap_1.25u"
-			(at 227.33 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 227.33 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 227.33 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4a0ace29-b9f8-4775-85d4-6b8b974783f1")
-		)
-		(pin "1"
-			(uuid "411794ea-52be-48d1-84a9-8ff44f0409db")
-		)
-		(instances
-			(project ""
-				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
-					(reference "SW33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "kbd:SW_PUSH")
-		(at 270.51 152.4 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c9bec4b3-34d0-4957-9b11-60d84c9ba614")
-		(property "Reference" "SW41"
-			(at 270.51 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_PUSH"
-			(at 270.51 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "kbd_SW_PCBA:Choc_v2_Hotswap_1.25u"
-			(at 270.51 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 270.51 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 270.51 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4a0ace29-b9f8-4775-85d4-6b8b974783f2")
-		)
-		(pin "1"
-			(uuid "411794ea-52be-48d1-84a9-8ff44f0409dc")
-		)
-		(instances
-			(project ""
-				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
-					(reference "SW41")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D")
 		(at 213.36 99.06 90)
 		(unit 1)
@@ -10195,72 +9039,6 @@
 			(project "UniversalStar33_Assemble"
 				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
 					(reference "D23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "kbd:SW_PUSH")
-		(at 74.93 152.4 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "da56c9ed-44dd-4b96-ba92-ac0ad13d8ee7")
-		(property "Reference" "SW12"
-			(at 74.93 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_PUSH"
-			(at 74.93 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "kbd_SW_PCBA:Choc_v2_Hotswap_1.25u"
-			(at 74.93 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 74.93 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 74.93 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4a0ace29-b9f8-4775-85d4-6b8b974783f4")
-		)
-		(pin "1"
-			(uuid "411794ea-52be-48d1-84a9-8ff44f0409de")
-		)
-		(instances
-			(project ""
-				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
-					(reference "SW12")
 					(unit 1)
 				)
 			)
