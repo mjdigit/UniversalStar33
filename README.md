@@ -17,12 +17,11 @@ touchpad.
 The KiCad schematic, main PCB key array and outline, top/bottom plates, QMK
 layout, and KLE layout have been converted to the 33-key arrangement. The
 logical matrix remains 4 rows by 10 columns; its fourth matrix row is used
-only by the three center keys, avoiding any GPIO reassignment. FPC1 has a
-provisional back-side position above the center keys.
+only by the three center keys, avoiding any GPIO reassignment. FPC1, R1, R2, and C1 are mounted on the back above the center keys.
 
-The TPS43 opening and mounting details, TPS43 electrical configuration, final
-FPC placement/routing, moving R1/R2/C1 to the back, and the case still require
-conversion from the original Girasole40/TPS65 baseline.
+The TPS43 mount plate, four-point attachment, back-side FPC interface, and
+QMK TPS43 configuration are now implemented. The enclosure and final
+manufacturing review still require completion.
 
 Open `assemble/UniversalStar33_Assemble.kicad_pro` in KiCad to inspect the
 current main schematic and PCB.
