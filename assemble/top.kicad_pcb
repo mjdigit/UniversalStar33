@@ -7712,6 +7712,19 @@
 		(layer "F.SilkS")
 		(uuid "15ebbdf1-a881-46be-9426-a7dae2d70189")
 	)
+	(gr_poly
+		(pts
+			(xy 175 31.809) (xy 174.7531 31.1488) (xy 174.0489 31.118) (xy 174.6006 30.6792) (xy 174.4122 30)
+			(xy 175 30.389) (xy 175.5878 30) (xy 175.3994 30.6792) (xy 175.9511 31.118) (xy 175.2469 31.1488)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "29a83bc4-25d2-4f57-a967-a97eb17bd0a1")
+	)
 	(gr_rect
 		(start 279 31.5)
 		(end 283 46.5)
@@ -7745,6 +7758,19 @@
 		(layer "F.SilkS")
 		(uuid "49508a1f-48f7-4c17-b051-6987b32de897")
 	)
+	(gr_poly
+		(pts
+			(xy 174.6006 39.8702) (xy 174.8475 40.5304) (xy 175.5517 40.5612) (xy 175 41) (xy 175.1884 41.6792)
+			(xy 174.6006 41.2902) (xy 174.0128 41.6792) (xy 174.2012 41) (xy 173.6495 40.5612) (xy 174.3537 40.5304)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "4c27146f-1cb2-41f1-bd10-a7f0fd9502b4")
+	)
 	(gr_line
 		(start 278.5 19.5)
 		(end 278.5 96.5)
@@ -7765,6 +7791,19 @@
 		(fill no)
 		(layer "F.SilkS")
 		(uuid "c6cec470-4115-4e1e-8ac4-8db83c1cf2e2")
+	)
+	(gr_poly
+		(pts
+			(xy 178.1602 34.8994) (xy 177.5 35.1463) (xy 177.4692 35.8505) (xy 177.0304 35.2988) (xy 176.3512 35.4872)
+			(xy 176.7402 34.8994) (xy 176.3512 34.3116) (xy 177.0304 34.5) (xy 177.4692 33.9483) (xy 177.5 34.6525)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "ec61955b-558d-4f5c-bacf-308f02a23148")
 	)
 	(gr_rect
 		(start 279 55.3)
@@ -8093,6 +8132,18 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "e8c61cef-cfa2-4109-bc58-62913c7274a9")
+	)
+	(gr_text "UniversalStar33 v1.0\n      PCB Design by @MJDigit"
+		(at 120 29 270)
+		(layer "F.SilkS")
+		(uuid "7f519c20-edb2-41bf-9868-0b4afc854e99")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
 	)
 	(zone
 		(net 0)
