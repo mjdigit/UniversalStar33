@@ -7735,8 +7735,8 @@
 		(uuid "48ce00ff-ea4f-4fc2-a2f6-55d26275cbc3")
 	)
 	(gr_rect
-		(start 14 70)
-		(end 18 85)
+		(start 14 55.3)
+		(end 18 70.3)
 		(stroke
 			(width 0.1)
 			(type dot)
@@ -7756,8 +7756,8 @@
 		(uuid "725a776c-494b-4b37-9549-3faaba1b74b1")
 	)
 	(gr_rect
-		(start 279 70)
-		(end 283 85)
+		(start 279 55.3)
+		(end 283 70.3)
 		(stroke
 			(width 0.1)
 			(type dot)
@@ -7767,8 +7767,8 @@
 		(uuid "c6cec470-4115-4e1e-8ac4-8db83c1cf2e2")
 	)
 	(gr_rect
-		(start 279 70)
-		(end 283 85)
+		(start 279 55.3)
+		(end 283 70.3)
 		(stroke
 			(width 0.1)
 			(type dot)
@@ -7778,8 +7778,8 @@
 		(uuid "455914a8-8903-49f7-9d4c-c843c45046b2")
 	)
 	(gr_rect
-		(start 14 70)
-		(end 18 85)
+		(start 14 55.3)
+		(end 18 70.3)
 		(stroke
 			(width 0.1)
 			(type dot)

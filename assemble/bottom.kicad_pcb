@@ -379,8 +379,8 @@
 		(embedded_fonts no)
 	)
 	(gr_circle
-		(center 21 93.5)
-		(end 23.5 93.5)
+		(center 21 79.3)
+		(end 23.5 79.3)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -401,8 +401,8 @@
 		(uuid "30f44e70-a063-4df4-856b-5f92d30f8d7e")
 	)
 	(gr_circle
-		(center 148.5 93.5)
-		(end 151 93.5)
+		(center 148.5 79.3)
+		(end 151 79.3)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -434,8 +434,8 @@
 		(uuid "ef34725d-e7eb-4afd-be3b-5a6ae0783d68")
 	)
 	(gr_circle
-		(center 276 93.5)
-		(end 278.5 93.5)
+		(center 276 79.3)
+		(end 278.5 79.3)
 		(stroke
 			(width 0.1)
 			(type solid)
