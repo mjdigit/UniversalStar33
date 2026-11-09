@@ -35,9 +35,13 @@ The top plate's checker-pattern copper keepout is limited to the narrow left
 and right edge strips; obsolete cells below the inner key area have been
 removed. The solid copper fill and F.Mask frames are centered on all 33 key
 cutouts. The central opening is symmetric about x = 148.5 mm and widens to
-x = 122.4--174.6 mm below y = 56.1 mm, clearing the two lower touchpad-mount
+x = 121.9--175.1 mm below y = 56.1 mm, clearing the two lower touchpad-mount
 screw holes and the back-side FPC connector while retaining a 2.575 mm web
 above the bottom-row key openings.
+
+The Base touchpad-mount holes match the Touchpad plate at (124.0, 21.6),
+(173.0, 21.6), (124.0, 57.6), and (173.0, 57.6) mm. The widened Top opening
+retains 1.0 mm radial clearance around each lower 2.2 mm mounting hole.
 
 An 8.0 x 3.5 mm, 45-degree cable slot carries the TPS43 flat cable from the
 front to the back of the main PCB. FPC1 is on the back at (132.5, 54.5),

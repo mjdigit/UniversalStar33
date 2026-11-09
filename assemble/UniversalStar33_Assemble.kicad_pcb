@@ -141,7 +141,7 @@
 	(footprint "isw-kbd:M2_ScrewHole"
 		(layer "F.Cu")
 		(uuid "00df5e5f-707d-4929-96e9-7522758e50d1")
-		(at 124.5 57.5)
+		(at 124 57.6)
 		(descr "Mounting Hole 2.2mm, no annular, M2")
 		(tags "mounting hole 2.2mm no annular m2")
 		(property "Reference" "Ref**"
@@ -3268,7 +3268,7 @@
 	(footprint "isw-kbd:M2_ScrewHole"
 		(layer "F.Cu")
 		(uuid "72d2aa45-8afd-4523-947c-6c24c71ca74c")
-		(at 172.5 57.5)
+		(at 173 57.6)
 		(descr "Mounting Hole 2.2mm, no annular, M2")
 		(tags "mounting hole 2.2mm no annular m2")
 		(property "Reference" "Ref**"
@@ -5523,7 +5523,7 @@
 	(footprint "isw-kbd:M2_ScrewHole"
 		(layer "F.Cu")
 		(uuid "b9819326-ec32-4738-975f-46827340f4a3")
-		(at 172.5 21.5)
+		(at 173 21.6)
 		(descr "Mounting Hole 2.2mm, no annular, M2")
 		(tags "mounting hole 2.2mm no annular m2")
 		(property "Reference" "Ref**"
@@ -6688,7 +6688,7 @@
 	(footprint "isw-kbd:M2_ScrewHole"
 		(layer "F.Cu")
 		(uuid "e179d494-310d-4a02-b154-8be3b44e1686")
-		(at 124.5 21.5)
+		(at 124 21.6)
 		(descr "Mounting Hole 2.2mm, no annular, M2")
 		(tags "mounting hole 2.2mm no annular m2")
 		(property "Reference" "Ref**"
