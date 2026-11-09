@@ -31,6 +31,14 @@ the touchpad-adjacent columns. SW20 is adjacent to SW19, SW29 is adjacent to
 SW24, and SW25 is centered at x = 148.5 mm. The two gaps around SW25 are
 intentional.
 
+The top plate's checker-pattern copper keepout is limited to the narrow left
+and right edge strips; obsolete cells below the inner key area have been
+removed. The solid copper fill and F.Mask frames are centered on all 33 key
+cutouts. The central opening is symmetric about x = 148.5 mm and widens to
+x = 122.4--174.6 mm below y = 56.1 mm, clearing the two lower touchpad-mount
+screw holes and the back-side FPC connector while retaining a 2.575 mm web
+above the bottom-row key openings.
+
 An 8.0 x 3.5 mm, 45-degree cable slot carries the TPS43 flat cable from the
 front to the back of the main PCB. FPC1 is on the back at (132.5, 54.5),
 rotated to 315 degrees (shown as -45 degrees in KiCad), so its terminal face
