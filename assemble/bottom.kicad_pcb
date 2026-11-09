@@ -231,7 +231,7 @@
 	(footprint "isw-kbd:M2_ScrewHole"
 		(layer "F.Cu")
 		(uuid "967f70fb-7674-4d42-b2e7-4f9c8ce39b16")
-		(at 281 83.3)
+		(at 281 79.8)
 		(descr "Mounting Hole 2.2mm, no annular, M2")
 		(tags "mounting hole 2.2mm no annular m2")
 		(property "Reference" "Ref**"
@@ -306,7 +306,7 @@
 	(footprint "isw-kbd:M2_ScrewHole"
 		(layer "F.Cu")
 		(uuid "9d187ad6-f506-4011-a0b6-05e2c0cc6826")
-		(at 16 83.3)
+		(at 16 79.8)
 		(descr "Mounting Hole 2.2mm, no annular, M2")
 		(tags "mounting hole 2.2mm no annular m2")
 		(property "Reference" "Ref**"
@@ -489,8 +489,8 @@
 		(uuid "9a61fa3f-7239-4a9c-82d6-3902d09edefb")
 	)
 	(gr_line
-		(start 15.5 85.8)
-		(end 281.5 85.8)
+		(start 15.5 82.3)
+		(end 281.5 82.3)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -500,7 +500,7 @@
 	)
 	(gr_line
 		(start 283.5 21.5)
-		(end 283.5 83.8)
+		(end 283.5 80.3)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -510,7 +510,7 @@
 	)
 	(gr_line
 		(start 13.5 21.5)
-		(end 13.5 83.8)
+		(end 13.5 80.3)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -529,9 +529,9 @@
 		(uuid "caf9bc02-9462-4cbb-b3fa-529116dacd7e")
 	)
 	(gr_arc
-		(start 15.5 85.8)
-		(mid 14.085786 85.214214)
-		(end 13.5 83.8)
+		(start 15.5 82.3)
+		(mid 14.085786 81.714214)
+		(end 13.5 80.3)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -540,9 +540,9 @@
 		(uuid "d6c2b04b-fe4f-48bb-a66a-4ac5f4d52ce4")
 	)
 	(gr_arc
-		(start 283.5 83.8)
-		(mid 282.914214 85.214214)
-		(end 281.5 85.8)
+		(start 283.5 80.3)
+		(mid 282.914214 81.714214)
+		(end 281.5 82.3)
 		(stroke
 			(width 0.05)
 			(type solid)
