@@ -25,23 +25,33 @@ QMK TPS43 configuration are now implemented.
 The complete key array has been lowered by 4.0 mm to clear the TPS43 mount
 plate. The main PCB, top plate, and bottom plate are 62.85 mm tall. The top
 key-opening bezel remains 7.0 mm while the lower bezel has been reduced to
-3.5 mm. Both five-column key blocks now use uniform 19.05 mm pitch with no
-inter-column gaps; their outer four columns were moved 3.0 mm inward to meet
-the touchpad-adjacent columns. SW20 is adjacent to SW19, SW29 is adjacent to
-SW24, and SW25 is centered at x = 148.5 mm. The two gaps around SW25 are
-intentional.
+3.5 mm. The Base outline is 252.0 mm wide (x = 22.5–274.5 mm), while the Top
+and Bottom outlines are 262.0 mm wide (x = 17.5–279.5 mm). This removes 4.0
+mm from each side while retaining approximately 1.1 mm around the outermost
+switch footprints. Both five-column key blocks now use uniform 19.05 mm pitch with no
+inter-column gaps. The left block was shifted 1.75 mm right and the right
+block 1.7755 mm left, making SW19, SW20, SW25, SW29, and SW24 a continuous
+19.05 mm-pitch row centered on SW25 at x = 148.5 mm. The horizontal clearance
+between the Touchpad plate and each adjacent key opening is 4.55 mm.
 
 The top plate's checker-pattern copper keepout is limited to the narrow left
 and right edge strips; obsolete cells below the inner key area have been
 removed. The solid copper fill and F.Mask frames are centered on all 33 key
-cutouts. The central opening is symmetric about x = 148.5 mm and widens to
-x = 121.9--175.1 mm below y = 56.1 mm, clearing the two lower touchpad-mount
-screw holes and the back-side FPC connector while retaining a 2.575 mm web
-above the bottom-row key openings.
+cutouts. The central opening is symmetric about x = 148.5 mm, with side edges
+at x = 122.0/175.0 mm and its lower edge at y = 59.6 mm. The overlapping side
+ears remain 3.0 mm deep. The Touchpad plate is positioned independently above
+the Top plate with spacer clearance.
 
-The Base touchpad-mount holes match the Touchpad plate at (124.0, 21.6),
-(173.0, 21.6), (124.0, 57.6), and (173.0, 57.6) mm. The widened Top opening
-retains 1.0 mm radial clearance around each lower 2.2 mm mounting hole.
+The Touchpad plate is shifted 2.0 mm downward and its upper edge is shortened
+by a further 2.0 mm, giving an outer y range of 23.6–61.6 mm. The Base
+touchpad-mount holes match the Touchpad plate at (124.0, 25.6),
+(173.0, 25.6), (124.0, 59.6), and (173.0, 59.6) mm.
+
+Two additional case fasteners are located symmetrically in the Top plate ears
+at (122.0, 48.25) and (175.0, 48.25) mm. The Top and Bottom plates use 2.2 mm
+M2 screw holes, while the Base uses 4.4 mm spacer-through holes at the same
+centers. The Touchpad plate intentionally has no matching through-holes because
+it is separated from the Top plate by spacers.
 
 An 8.0 x 3.5 mm, 45-degree cable slot carries the TPS43 flat cable from the
 front to the back of the main PCB. FPC1 is on the back at (132.5, 54.5),
