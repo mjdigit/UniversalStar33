@@ -23,9 +23,11 @@ The TPS43 mount plate, four-point attachment, back-side FPC interface, and
 QMK TPS43 configuration are now implemented.
 
 The complete key array has been lowered by 4.0 mm to clear the TPS43 mount
-plate. The main PCB, top plate, and bottom plate are 62.85 mm tall. The top
-key-opening bezel remains 7.0 mm while the lower bezel has been reduced to
-3.5 mm. The Base outline is 252.0 mm wide (x = 22.5–274.5 mm), while the Top
+plate. The Base, Top, and Bottom upper edges now align with the Touchpad upper
+edge at y = 23.6 mm; their lower edges remain at y = 82.3 mm, giving a 58.7 mm
+outline height (58.75 mm including the Edge.Cuts line width). The Top plate's
+upper/lower key-opening bezels are approximately 3.0/3.5 mm. The Base outline
+is 252.0 mm wide (x = 22.5–274.5 mm), while the Top
 and Bottom outlines are 262.0 mm wide (x = 17.5–279.5 mm). This removes 4.0
 mm from each side while retaining approximately 1.1 mm around the outermost
 switch footprints. Both five-column key blocks now use uniform 19.05 mm pitch with no
@@ -37,9 +39,11 @@ between the Touchpad plate and each adjacent key opening is 4.55 mm.
 The top plate's checker-pattern copper keepout is limited to the narrow left
 and right edge strips; obsolete cells below the inner key area have been
 removed. The solid copper fill and F.Mask frames are centered on all 33 key
-cutouts. The central opening is symmetric about x = 148.5 mm, with side edges
-at x = 122.0/175.0 mm and its lower edge at y = 59.6 mm. The overlapping side
-ears remain 3.0 mm deep. The Touchpad plate is positioned independently above
+cutouts. The central opening is symmetric about x = 148.5 mm, with inner side
+edges at x = 125.0/172.0 mm, outer ear edges at x = 122.0/175.0 mm, and its
+lower edge aligned with the Touchpad plate at y = 61.6 mm. The ears are
+vertically symmetric about y = 42.6 mm, matching the centerline of their
+mounting holes. The Touchpad plate is positioned independently above
 the Top plate with spacer clearance.
 
 The Touchpad plate is shifted 2.0 mm downward and its upper edge is shortened
@@ -48,7 +52,7 @@ touchpad-mount holes match the Touchpad plate at (124.0, 25.6),
 (173.0, 25.6), (124.0, 59.6), and (173.0, 59.6) mm.
 
 Two additional case fasteners are located symmetrically in the Top plate ears
-at (122.0, 48.25) and (175.0, 48.25) mm. The Top and Bottom plates use 2.2 mm
+at (122.0, 42.6) and (175.0, 42.6) mm. The Top and Bottom plates use 2.2 mm
 M2 screw holes, while the Base uses 4.4 mm spacer-through holes at the same
 centers. The Touchpad plate intentionally has no matching through-holes because
 it is separated from the Top plate by spacers.
@@ -62,6 +66,9 @@ traces are 0.30 mm wide, the
 3V3/GND controller trunks are 0.50 mm wide, and all matrix and touchpad
 routes use 90-degree-or-greater junctions. The power return is kept separate
 from SDA/SCL around the touchpad interface.
+
+U1 is positioned at (160.33, 36.02) mm so the aligned Base upper edge clears
+the controller and its rerouted power, I2C, and matrix traces.
 
 The enclosure, physical FPC bend/length check, noise validation on assembled
 hardware, and final manufacturing review still require completion.
