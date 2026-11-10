@@ -4091,7 +4091,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 63.5 119.3799 90)
 			(effects
 				(font
@@ -4100,7 +4100,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 60.96 118.11 0)
 			(effects
 				(font
@@ -4109,7 +4109,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 60.96 118.11 0)
 			(effects
 				(font
@@ -4118,7 +4118,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 60.96 118.11 0)
 			(effects
 				(font
@@ -4137,6 +4137,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 60.96 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 60.96 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 60.96 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 60.96 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 60.96 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 60.96 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 60.96 118.11 0)
 			(effects
 				(font
@@ -4245,7 +4299,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 237.49 100.3299 90)
 			(effects
 				(font
@@ -4254,7 +4308,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 234.95 99.06 0)
 			(effects
 				(font
@@ -4263,7 +4317,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 234.95 99.06 0)
 			(effects
 				(font
@@ -4272,7 +4326,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 234.95 99.06 0)
 			(effects
 				(font
@@ -4291,6 +4345,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 234.95 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 234.95 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 234.95 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 234.95 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 234.95 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 234.95 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 234.95 99.06 0)
 			(effects
 				(font
@@ -4465,7 +4573,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 193.04 157.4799 90)
 			(effects
 				(font
@@ -4474,7 +4582,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 190.5 156.21 0)
 			(effects
 				(font
@@ -4483,7 +4591,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 190.5 156.21 0)
 			(effects
 				(font
@@ -4492,7 +4600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 190.5 156.21 0)
 			(effects
 				(font
@@ -4511,6 +4619,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 190.5 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 190.5 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 190.5 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 190.5 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 190.5 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 190.5 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 190.5 156.21 0)
 			(effects
 				(font
@@ -4685,7 +4847,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 128.27 100.3299 90)
 			(effects
 				(font
@@ -4694,7 +4856,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 125.73 99.06 0)
 			(effects
 				(font
@@ -4703,7 +4865,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 125.73 99.06 0)
 			(effects
 				(font
@@ -4712,7 +4874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 125.73 99.06 0)
 			(effects
 				(font
@@ -4731,6 +4893,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 125.73 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 125.73 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 125.73 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 125.73 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 125.73 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 125.73 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 125.73 99.06 0)
 			(effects
 				(font
@@ -4971,7 +5187,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 237.49 119.3799 90)
 			(effects
 				(font
@@ -4980,7 +5196,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 234.95 118.11 0)
 			(effects
 				(font
@@ -4989,7 +5205,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 234.95 118.11 0)
 			(effects
 				(font
@@ -4998,7 +5214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 234.95 118.11 0)
 			(effects
 				(font
@@ -5017,6 +5233,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 234.95 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 234.95 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 234.95 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 234.95 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 234.95 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 234.95 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 234.95 118.11 0)
 			(effects
 				(font
@@ -5125,7 +5395,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 128.27 119.3799 90)
 			(effects
 				(font
@@ -5134,7 +5404,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 125.73 118.11 0)
 			(effects
 				(font
@@ -5143,7 +5413,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 125.73 118.11 0)
 			(effects
 				(font
@@ -5152,7 +5422,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 125.73 118.11 0)
 			(effects
 				(font
@@ -5171,6 +5441,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 125.73 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 125.73 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 125.73 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 125.73 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 125.73 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 125.73 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 125.73 118.11 0)
 			(effects
 				(font
@@ -5279,7 +5603,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 40.64 100.3299 90)
 			(effects
 				(font
@@ -5288,7 +5612,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 38.1 99.06 0)
 			(effects
 				(font
@@ -5297,7 +5621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 38.1 99.06 0)
 			(effects
 				(font
@@ -5306,7 +5630,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 38.1 99.06 0)
 			(effects
 				(font
@@ -5325,6 +5649,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 38.1 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 38.1 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 38.1 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 38.1 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 38.1 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 38.1 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 38.1 99.06 0)
 			(effects
 				(font
@@ -5367,7 +5745,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 280.67 119.3799 90)
 			(effects
 				(font
@@ -5376,7 +5754,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 278.13 118.11 0)
 			(effects
 				(font
@@ -5385,7 +5763,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 278.13 118.11 0)
 			(effects
 				(font
@@ -5394,7 +5772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 278.13 118.11 0)
 			(effects
 				(font
@@ -5413,6 +5791,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 278.13 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 278.13 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 278.13 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 278.13 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 278.13 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 278.13 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 278.13 118.11 0)
 			(effects
 				(font
@@ -5521,7 +5953,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 106.68 100.3299 90)
 			(effects
 				(font
@@ -5530,7 +5962,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 104.14 99.06 0)
 			(effects
 				(font
@@ -5539,7 +5971,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 104.14 99.06 0)
 			(effects
 				(font
@@ -5548,7 +5980,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 104.14 99.06 0)
 			(effects
 				(font
@@ -5567,6 +5999,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 104.14 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 104.14 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 104.14 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 104.14 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 104.14 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 104.14 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 104.14 99.06 0)
 			(effects
 				(font
@@ -5609,7 +6095,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 40.64 119.3799 90)
 			(effects
 				(font
@@ -5618,7 +6104,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 38.1 118.11 0)
 			(effects
 				(font
@@ -5627,7 +6113,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 38.1 118.11 0)
 			(effects
 				(font
@@ -5636,7 +6122,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 38.1 118.11 0)
 			(effects
 				(font
@@ -5655,6 +6141,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 38.1 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 38.1 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 38.1 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 38.1 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 38.1 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 38.1 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 38.1 118.11 0)
 			(effects
 				(font
@@ -5697,7 +6237,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 237.49 138.4299 90)
 			(effects
 				(font
@@ -5706,7 +6246,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 234.95 137.16 0)
 			(effects
 				(font
@@ -5715,7 +6255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 234.95 137.16 0)
 			(effects
 				(font
@@ -5724,7 +6264,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 234.95 137.16 0)
 			(effects
 				(font
@@ -5743,6 +6283,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 234.95 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 234.95 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 234.95 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 234.95 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 234.95 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 234.95 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 234.95 137.16 0)
 			(effects
 				(font
@@ -5784,7 +6378,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 63.5 138.4299 90)
 			(effects
 				(font
@@ -5793,7 +6387,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 60.96 137.16 0)
 			(effects
 				(font
@@ -5802,7 +6396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 60.96 137.16 0)
 			(effects
 				(font
@@ -5811,7 +6405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 60.96 137.16 0)
 			(effects
 				(font
@@ -5830,6 +6424,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 60.96 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 60.96 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 60.96 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 60.96 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 60.96 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 60.96 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 60.96 137.16 0)
 			(effects
 				(font
@@ -6004,7 +6652,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "FPC-05F-6PH20"
 			(at 138.43 33.0199 0)
 			(effects
 				(font
@@ -6013,7 +6661,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_FFC-FPC:FPC-6p-P0.5mm"
+		(property "Footprint" "UniversalStar33:FPC-05F-6PH20"
 			(at 132.08 31.75 0)
 			(effects
 				(font
@@ -6031,7 +6679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Locking Feature:Hinged Lid Contact Type:Surface Mount Number of Contacts:6P Pitch:0.5mm Mounting Type:Bottom Contact FFC, FCB Thickness:0.3mm FFC, FCB Thickness:0.3mm Height Above Board:2mm Contact Material:Phosphor Bronze Contact Plating:Tin Operating Te"
+		(property "Description" "6P 0.5 mm pitch bottom-contact FPC connector, cable 0.3 mm, H=2.0 mm"
 			(at 132.08 31.75 0)
 			(effects
 				(font
@@ -6049,7 +6697,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "XUNPU(讯普)"
+		(property "Manufacturer" "XUNPU"
 			(at 132.08 31.75 0)
 			(effects
 				(font
@@ -6067,7 +6715,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "LCSC"
+		(property "Supplier" "JLCPCB/LCSC"
 			(at 132.08 31.75 0)
 			(effects
 				(font
@@ -6077,6 +6725,24 @@
 			)
 		)
 		(property "LCSC Part Name" "翻盖式 卧贴 P数:6P 间距:0.5mm"
+			(at 132.08 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2856796"
+			(at 132.08 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2856796"
 			(at 132.08 31.75 0)
 			(effects
 				(font
@@ -6137,7 +6803,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 128.27 138.4299 90)
 			(effects
 				(font
@@ -6146,7 +6812,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 125.73 137.16 0)
 			(effects
 				(font
@@ -6155,7 +6821,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 125.73 137.16 0)
 			(effects
 				(font
@@ -6164,7 +6830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 125.73 137.16 0)
 			(effects
 				(font
@@ -6183,6 +6849,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 125.73 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 125.73 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 125.73 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 125.73 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 125.73 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 125.73 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 125.73 137.16 0)
 			(effects
 				(font
@@ -6225,7 +6945,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 259.08 119.3799 90)
 			(effects
 				(font
@@ -6234,7 +6954,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 256.54 118.11 0)
 			(effects
 				(font
@@ -6243,7 +6963,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 256.54 118.11 0)
 			(effects
 				(font
@@ -6252,7 +6972,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 256.54 118.11 0)
 			(effects
 				(font
@@ -6271,6 +6991,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 256.54 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 256.54 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 256.54 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 256.54 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 256.54 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 256.54 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 256.54 118.11 0)
 			(effects
 				(font
@@ -6577,7 +7351,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 259.08 138.4299 90)
 			(effects
 				(font
@@ -6586,7 +7360,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 256.54 137.16 0)
 			(effects
 				(font
@@ -6595,7 +7369,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 256.54 137.16 0)
 			(effects
 				(font
@@ -6604,7 +7378,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 256.54 137.16 0)
 			(effects
 				(font
@@ -6623,6 +7397,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 256.54 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 256.54 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 256.54 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 256.54 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 256.54 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 256.54 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 256.54 137.16 0)
 			(effects
 				(font
@@ -6664,7 +7492,7 @@
 				)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF 10V X5R 0603"
 			(at 115.57 19.05 90)
 			(effects
 				(font
@@ -6672,7 +7500,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 119.38 23.1648 0)
 			(effects
 				(font
@@ -6681,7 +7509,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C19702"
 			(at 115.57 24.13 0)
 			(effects
 				(font
@@ -6690,7 +7518,61 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10 uF 10 V X5R 10% 0603 MLCC, JLCPCB Basic part"
+			(at 115.57 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 115.57 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "CL10A106KP8NNNC"
+			(at 115.57 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 115.57 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C19702"
+			(at 115.57 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C19702"
+			(at 115.57 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C19702"
 			(at 115.57 24.13 0)
 			(effects
 				(font
@@ -6733,7 +7615,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 259.08 100.3299 90)
 			(effects
 				(font
@@ -6742,7 +7624,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 256.54 99.06 0)
 			(effects
 				(font
@@ -6751,7 +7633,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 256.54 99.06 0)
 			(effects
 				(font
@@ -6760,7 +7642,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 256.54 99.06 0)
 			(effects
 				(font
@@ -6779,6 +7661,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 256.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 256.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 256.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 256.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 256.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 256.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 256.54 99.06 0)
 			(effects
 				(font
@@ -6821,7 +7757,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 280.67 100.3299 90)
 			(effects
 				(font
@@ -6830,7 +7766,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 278.13 99.06 0)
 			(effects
 				(font
@@ -6839,7 +7775,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 278.13 99.06 0)
 			(effects
 				(font
@@ -6848,7 +7784,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 278.13 99.06 0)
 			(effects
 				(font
@@ -6867,6 +7803,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 278.13 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 278.13 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 278.13 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 278.13 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 278.13 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 278.13 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 278.13 99.06 0)
 			(effects
 				(font
@@ -6973,7 +7963,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1k 1% 0603"
 			(at 115.57 31.75 90)
 			(effects
 				(font
@@ -6981,7 +7971,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 115.57 37.338 90)
 			(effects
 				(font
@@ -6990,7 +7980,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C21190"
 			(at 115.57 35.56 0)
 			(effects
 				(font
@@ -6999,7 +7989,61 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1 kOhm 1% 0.1 W 0603 thick-film resistor, JLCPCB Basic part"
+			(at 115.57 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 115.57 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "0603WAF1001T5E"
+			(at 115.57 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 115.57 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C21190"
+			(at 115.57 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C21190"
+			(at 115.57 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C21190"
 			(at 115.57 35.56 0)
 			(effects
 				(font
@@ -7042,7 +8086,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 280.67 138.4299 90)
 			(effects
 				(font
@@ -7051,7 +8095,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 278.13 137.16 0)
 			(effects
 				(font
@@ -7060,7 +8104,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 278.13 137.16 0)
 			(effects
 				(font
@@ -7069,7 +8113,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 278.13 137.16 0)
 			(effects
 				(font
@@ -7088,6 +8132,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 278.13 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 278.13 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 278.13 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 278.13 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 278.13 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 278.13 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 278.13 137.16 0)
 			(effects
 				(font
@@ -7130,7 +8228,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 106.68 119.3799 90)
 			(effects
 				(font
@@ -7139,7 +8237,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 104.14 118.11 0)
 			(effects
 				(font
@@ -7148,7 +8246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 104.14 118.11 0)
 			(effects
 				(font
@@ -7157,7 +8255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 104.14 118.11 0)
 			(effects
 				(font
@@ -7176,6 +8274,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 104.14 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 104.14 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 104.14 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 104.14 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 104.14 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 104.14 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 104.14 118.11 0)
 			(effects
 				(font
@@ -7283,7 +8435,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 63.5 100.3299 90)
 			(effects
 				(font
@@ -7292,7 +8444,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 60.96 99.06 0)
 			(effects
 				(font
@@ -7301,7 +8453,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 60.96 99.06 0)
 			(effects
 				(font
@@ -7310,7 +8462,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 60.96 99.06 0)
 			(effects
 				(font
@@ -7329,6 +8481,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 60.96 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 60.96 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 60.96 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 60.96 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 60.96 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 60.96 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 60.96 99.06 0)
 			(effects
 				(font
@@ -7371,7 +8577,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 85.09 100.3299 90)
 			(effects
 				(font
@@ -7380,7 +8586,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 82.55 99.06 0)
 			(effects
 				(font
@@ -7389,7 +8595,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 82.55 99.06 0)
 			(effects
 				(font
@@ -7398,7 +8604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 82.55 99.06 0)
 			(effects
 				(font
@@ -7417,6 +8623,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 82.55 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 82.55 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 82.55 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 82.55 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 82.55 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 82.55 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 82.55 99.06 0)
 			(effects
 				(font
@@ -7457,7 +8717,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1k 1% 0603"
 			(at 115.57 41.91 90)
 			(effects
 				(font
@@ -7465,7 +8725,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 115.57 47.498 90)
 			(effects
 				(font
@@ -7474,7 +8734,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C21190"
 			(at 115.57 45.72 0)
 			(effects
 				(font
@@ -7483,7 +8743,61 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1 kOhm 1% 0.1 W 0603 thick-film resistor, JLCPCB Basic part"
+			(at 115.57 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 115.57 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "0603WAF1001T5E"
+			(at 115.57 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 115.57 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C21190"
+			(at 115.57 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C21190"
+			(at 115.57 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C21190"
 			(at 115.57 45.72 0)
 			(effects
 				(font
@@ -7526,7 +8840,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 193.04 100.3299 90)
 			(effects
 				(font
@@ -7535,7 +8849,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 190.5 99.06 0)
 			(effects
 				(font
@@ -7544,7 +8858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 190.5 99.06 0)
 			(effects
 				(font
@@ -7553,7 +8867,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 190.5 99.06 0)
 			(effects
 				(font
@@ -7572,6 +8886,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 190.5 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 190.5 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 190.5 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 190.5 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 190.5 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 190.5 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 190.5 99.06 0)
 			(effects
 				(font
@@ -7811,7 +9179,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 85.09 138.4299 90)
 			(effects
 				(font
@@ -7820,7 +9188,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 82.55 137.16 0)
 			(effects
 				(font
@@ -7829,7 +9197,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 82.55 137.16 0)
 			(effects
 				(font
@@ -7838,7 +9206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 82.55 137.16 0)
 			(effects
 				(font
@@ -7857,6 +9225,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 82.55 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 82.55 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 82.55 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 82.55 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 82.55 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 82.55 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 82.55 137.16 0)
 			(effects
 				(font
@@ -8426,7 +9848,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 193.04 138.4299 90)
 			(effects
 				(font
@@ -8435,7 +9857,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 190.5 137.16 0)
 			(effects
 				(font
@@ -8444,7 +9866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 190.5 137.16 0)
 			(effects
 				(font
@@ -8453,7 +9875,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 190.5 137.16 0)
 			(effects
 				(font
@@ -8472,6 +9894,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 190.5 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 190.5 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 190.5 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 190.5 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 190.5 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 190.5 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 190.5 137.16 0)
 			(effects
 				(font
@@ -8514,7 +9990,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 40.64 138.4299 90)
 			(effects
 				(font
@@ -8523,7 +9999,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 38.1 137.16 0)
 			(effects
 				(font
@@ -8532,7 +10008,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 38.1 137.16 0)
 			(effects
 				(font
@@ -8541,7 +10017,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 38.1 137.16 0)
 			(effects
 				(font
@@ -8560,6 +10036,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 38.1 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 38.1 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 38.1 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 38.1 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 38.1 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 38.1 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 38.1 137.16 0)
 			(effects
 				(font
@@ -8733,7 +10263,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 85.09 119.3799 90)
 			(effects
 				(font
@@ -8742,7 +10272,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 82.55 118.11 0)
 			(effects
 				(font
@@ -8751,7 +10281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 82.55 118.11 0)
 			(effects
 				(font
@@ -8760,7 +10290,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 82.55 118.11 0)
 			(effects
 				(font
@@ -8779,6 +10309,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 82.55 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 82.55 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 82.55 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 82.55 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 82.55 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 82.55 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 82.55 118.11 0)
 			(effects
 				(font
@@ -8821,7 +10405,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 215.9 100.3299 90)
 			(effects
 				(font
@@ -8830,7 +10414,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 213.36 99.06 0)
 			(effects
 				(font
@@ -8839,7 +10423,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 213.36 99.06 0)
 			(effects
 				(font
@@ -8848,7 +10432,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 213.36 99.06 0)
 			(effects
 				(font
@@ -8867,6 +10451,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 213.36 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 213.36 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 213.36 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 213.36 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 213.36 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 213.36 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 213.36 99.06 0)
 			(effects
 				(font
@@ -8975,7 +10613,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 193.04 119.3799 90)
 			(effects
 				(font
@@ -8984,7 +10622,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 190.5 118.11 0)
 			(effects
 				(font
@@ -8993,7 +10631,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 190.5 118.11 0)
 			(effects
 				(font
@@ -9002,7 +10640,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 190.5 118.11 0)
 			(effects
 				(font
@@ -9021,6 +10659,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 190.5 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 190.5 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 190.5 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 190.5 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 190.5 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 190.5 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 190.5 118.11 0)
 			(effects
 				(font
@@ -9129,7 +10821,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 215.9 138.4299 90)
 			(effects
 				(font
@@ -9138,7 +10830,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 213.36 137.16 0)
 			(effects
 				(font
@@ -9147,7 +10839,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 213.36 137.16 0)
 			(effects
 				(font
@@ -9156,7 +10848,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 213.36 137.16 0)
 			(effects
 				(font
@@ -9175,6 +10867,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 213.36 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 213.36 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 213.36 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 213.36 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 213.36 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 213.36 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 213.36 137.16 0)
 			(effects
 				(font
@@ -9283,7 +11029,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 106.68 138.4299 90)
 			(effects
 				(font
@@ -9292,7 +11038,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 104.14 137.16 0)
 			(effects
 				(font
@@ -9301,7 +11047,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 104.14 137.16 0)
 			(effects
 				(font
@@ -9310,7 +11056,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 104.14 137.16 0)
 			(effects
 				(font
@@ -9329,6 +11075,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 104.14 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 104.14 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 104.14 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 104.14 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 104.14 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 104.14 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 104.14 137.16 0)
 			(effects
 				(font
@@ -9371,7 +11171,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 215.9 157.4799 90)
 			(effects
 				(font
@@ -9380,7 +11180,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 213.36 156.21 0)
 			(effects
 				(font
@@ -9389,7 +11189,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 213.36 156.21 0)
 			(effects
 				(font
@@ -9398,7 +11198,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 213.36 156.21 0)
 			(effects
 				(font
@@ -9417,6 +11217,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 213.36 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 213.36 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 213.36 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 213.36 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 213.36 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 213.36 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 213.36 156.21 0)
 			(effects
 				(font
@@ -9524,7 +11378,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 215.9 119.3799 90)
 			(effects
 				(font
@@ -9533,7 +11387,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 213.36 118.11 0)
 			(effects
 				(font
@@ -9542,7 +11396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 213.36 118.11 0)
 			(effects
 				(font
@@ -9551,7 +11405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 213.36 118.11 0)
 			(effects
 				(font
@@ -9570,6 +11424,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 213.36 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 213.36 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 213.36 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 213.36 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 213.36 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 213.36 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 213.36 118.11 0)
 			(effects
 				(font
@@ -9678,7 +11586,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 128.27 157.4799 90)
 			(effects
 				(font
@@ -9687,7 +11595,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 125.73 156.21 0)
 			(effects
 				(font
@@ -9696,7 +11604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C81598"
 			(at 125.73 156.21 0)
 			(effects
 				(font
@@ -9705,7 +11613,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "75 V 150 mA switching diode, SOD-123, JLCPCB Basic part"
 			(at 125.73 156.21 0)
 			(effects
 				(font
@@ -9724,6 +11632,60 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 125.73 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ST(Semtech)"
+			(at 125.73 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "1N4148W"
+			(at 125.73 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 125.73 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C81598"
+			(at 125.73 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C81598"
+			(at 125.73 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C81598"
 			(at 125.73 156.21 0)
 			(effects
 				(font
