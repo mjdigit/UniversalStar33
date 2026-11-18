@@ -141,6 +141,80 @@ static float scroll_accumulated_v = 0;
 
 static bool drag_scrolling = false;
 
+// The IQS5xx reports both a tap and a press-and-hold as mouse button 1.
+// Delay the first report by one pointing-device cycle so a one-shot tap can
+// be distinguished from a continuing hold. A hold is only passed through
+// when it follows a tap within the double-tap window (tap-and-drag).
+#    define TOUCHPAD_DOUBLE_TAP_TERM 500
+
+typedef enum {
+  TOUCHPAD_BUTTON_IDLE,
+  TOUCHPAD_BUTTON_TAP_CANDIDATE,
+  TOUCHPAD_BUTTON_HOLD_SUPPRESSED,
+  TOUCHPAD_BUTTON_DRAGGING,
+} touchpad_button_state_t;
+
+static touchpad_button_state_t touchpad_button_state = TOUCHPAD_BUTTON_IDLE;
+static uint32_t                touchpad_last_tap_time = 0;
+static bool                    touchpad_tap_armed     = false;
+
+static void process_touchpad_tap_and_drag(report_mouse_t *mouse_report) {
+  const uint8_t button1_mask = 1 << POINTING_DEVICE_BUTTON1;
+  const bool    button1_raw  = (mouse_report->buttons & button1_mask) != 0;
+
+  // Rebuild button 1 below without modifying the other mouse buttons.
+  mouse_report->buttons &= ~button1_mask;
+
+  if (touchpad_tap_armed && timer_elapsed32(touchpad_last_tap_time) > TOUCHPAD_DOUBLE_TAP_TERM) {
+    touchpad_tap_armed = false;
+  }
+
+  switch (touchpad_button_state) {
+    case TOUCHPAD_BUTTON_IDLE:
+      if (button1_raw) {
+        if (touchpad_tap_armed) {
+          // The second tap may be released immediately (double-click) or
+          // remain active (tap-and-drag). In either case, pass it through.
+          touchpad_button_state = TOUCHPAD_BUTTON_DRAGGING;
+          touchpad_tap_armed    = false;
+          mouse_report->buttons |= button1_mask;
+        } else {
+          // Wait one report to determine whether this is a tap or a hold.
+          touchpad_button_state = TOUCHPAD_BUTTON_TAP_CANDIDATE;
+        }
+      }
+      break;
+
+    case TOUCHPAD_BUTTON_TAP_CANDIDATE:
+      if (button1_raw) {
+        // A continuing event is a standalone press-and-hold. Do not turn it
+        // into a drag unless it was preceded by a tap.
+        touchpad_button_state = TOUCHPAD_BUTTON_HOLD_SUPPRESSED;
+      } else {
+        // A one-report event is a single tap. Emit its click now and arm the
+        // following tap for double-click or tap-and-drag.
+        mouse_report->buttons |= button1_mask;
+        touchpad_last_tap_time = timer_read32();
+        touchpad_tap_armed     = true;
+        touchpad_button_state  = TOUCHPAD_BUTTON_IDLE;
+      }
+      break;
+
+    case TOUCHPAD_BUTTON_HOLD_SUPPRESSED:
+      if (!button1_raw) {
+        touchpad_button_state = TOUCHPAD_BUTTON_IDLE;
+      }
+      break;
+
+    case TOUCHPAD_BUTTON_DRAGGING:
+      if (button1_raw) {
+        mouse_report->buttons |= button1_mask;
+      } else {
+        touchpad_button_state = TOUCHPAD_BUTTON_IDLE;
+      }
+      break;
+  }
+}
 #define PROCESS_OVERRIDE_BEHAVIOR false
 #define PROCESS_USUAL_BEHAVIOR    true
 bool process_record_user(uint16_t keycode, keyrecord_t *record) {
@@ -168,6 +242,8 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
 }
 
 report_mouse_t pointing_device_task_kb(report_mouse_t mouse_report) {
+  process_touchpad_tap_and_drag(&mouse_report);
+
   int16_t cur_x = mouse_report.x;
   int16_t cur_y = mouse_report.y;
   int16_t cur_h = mouse_report.h;
