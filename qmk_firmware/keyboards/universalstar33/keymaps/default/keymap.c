@@ -87,6 +87,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   ),
 };
 
+#ifndef VIAL_ENABLE
 const uint16_t PROGMEM combo_Q_W[] = {LGUI_T(KC_Q), KC_W, COMBO_END};
 const uint16_t PROGMEM combo_S_D[] = {KC_S, KC_D, COMBO_END};
 const uint16_t PROGMEM combo_O_P[] = {KC_O, RGUI_T(KC_P), COMBO_END};
@@ -104,6 +105,7 @@ combo_t key_combos[] = {
   COMBO(combo_F10_F11, KC_F12),
   COMBO(combo_9_0, KC_EQL),
 };
+#endif
 
 void keyboard_post_init_user(void) {
   // Customise these values to desired behaviour
@@ -115,6 +117,7 @@ void keyboard_post_init_user(void) {
 #endif
 }
 
+#ifndef VIAL_ENABLE
 uint16_t get_tapping_term(uint16_t keycode, keyrecord_t *record) {
   switch (keycode) {
     case RCTL_T(KC_SLSH):
@@ -130,6 +133,7 @@ uint16_t get_tapping_term(uint16_t keycode, keyrecord_t *record) {
       return TAPPING_TERM;
   }
 }
+#endif
 
 #define SCROLL_DEVISOR 20.0
 static float scroll_accumulated_h = 0;
