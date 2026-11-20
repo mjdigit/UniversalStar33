@@ -3107,6 +3107,26 @@
 		)
 		(uuid "fd4ff148-1d67-4917-88fc-ce25291f3c86")
 	)
+	(wire
+		(pts (xy 68.58 35.56) (xy 72.39 35.56))
+		(stroke (width 0) (type default))
+		(uuid "fbf2834a-6b1c-4bbb-8a92-eb57c191761d")
+	)
+	(wire
+		(pts (xy 80.01 35.56) (xy 83.82 35.56))
+		(stroke (width 0) (type default))
+		(uuid "c85aa4d9-ec88-41de-802c-b28bcf420ab0")
+	)
+	(wire
+		(pts (xy 68.58 45.72) (xy 72.39 45.72))
+		(stroke (width 0) (type default))
+		(uuid "e2862bc5-2d6e-4e44-9129-1d0eb4606401")
+	)
+	(wire
+		(pts (xy 80.01 45.72) (xy 83.82 45.72))
+		(stroke (width 0) (type default))
+		(uuid "bb6dc2ac-de2b-4d79-9389-746ca82ec8db")
+	)
 	(global_label "3V3"
 		(shape input)
 		(at 31.75 33.02 180)
@@ -3173,7 +3193,7 @@
 			)
 		)
 	)
-	(global_label "SCL"
+	(global_label "SCL_MCU"
 		(shape input)
 		(at 43.18 57.15 270)
 		(fields_autoplaced yes)
@@ -3335,7 +3355,7 @@
 			)
 		)
 	)
-	(global_label "SDA"
+	(global_label "SDA_MCU"
 		(shape input)
 		(at 45.72 57.15 270)
 		(fields_autoplaced yes)
@@ -3598,6 +3618,94 @@
 		(uuid "8736aee0-8da4-4ebd-a0c9-808114e78c3d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 72.7142 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCL_MCU"
+		(shape input)
+		(at 68.58 35.56 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a476ad44-6506-4aec-aa6a-80f33e111695")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.6872 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCL"
+		(shape input)
+		(at 83.82 35.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "54b29f24-8239-432e-8708-4661a873ba08")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 87.7728 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDA_MCU"
+		(shape input)
+		(at 68.58 45.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d83d58fa-f659-4171-9dc9-a1763a78271c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.6872 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 83.82 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c2168f08-57ed-4e80-b1dd-3d911ffaf8d2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 87.8333 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8125,6 +8233,134 @@
 			(project ""
 				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
 					(reference "SW19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 76.2 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "58af42a0-e3b2-4cda-ad32-07de546fcf07")
+		(property "Reference" "R3"
+			(at 76.2 29.21 90)
+			(effects (font (size 1.27 1.27)))
+		)
+		(property "Value" "33R 1% 0603"
+			(at 76.2 31.75 90)
+			(effects (font (size 1.27 1.27)))
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 76.2 37.338 90)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C23140"
+			(at 76.2 35.56 0)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "Description" "33 Ohm 1% 0.1 W 0603 thick-film series damping resistor, JLCPCB Basic part"
+			(at 76.2 35.56 0)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 76.2 35.56 0)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "Manufacturer Part" "0603WAF330JT5E"
+			(at 76.2 35.56 0)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 76.2 35.56 0)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "Supplier Part" "C23140"
+			(at 76.2 35.56 0)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "LCSC Part #" "C23140"
+			(at 76.2 35.56 0)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "JLCPCB Part #" "C23140"
+			(at 76.2 35.56 0)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(pin "1" (uuid "600bd69a-ff92-4f02-8553-115fdb252702"))
+		(pin "2" (uuid "819afad5-48d7-4c75-a050-a5e9b30e04c1"))
+		(instances
+			(project ""
+				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 76.2 45.72 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2e939b10-ee25-4786-8cdd-2cf22eac64f7")
+		(property "Reference" "R4"
+			(at 76.2 39.37 90)
+			(effects (font (size 1.27 1.27)))
+		)
+		(property "Value" "33R 1% 0603"
+			(at 76.2 41.91 90)
+			(effects (font (size 1.27 1.27)))
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 76.2 47.498 90)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C23140"
+			(at 76.2 45.72 0)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "Description" "33 Ohm 1% 0.1 W 0603 thick-film series damping resistor, JLCPCB Basic part"
+			(at 76.2 45.72 0)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 76.2 45.72 0)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "Manufacturer Part" "0603WAF330JT5E"
+			(at 76.2 45.72 0)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 76.2 45.72 0)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "Supplier Part" "C23140"
+			(at 76.2 45.72 0)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "LCSC Part #" "C23140"
+			(at 76.2 45.72 0)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "JLCPCB Part #" "C23140"
+			(at 76.2 45.72 0)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(pin "1" (uuid "dd7a581b-20a3-4810-ae85-d824f686d797"))
+		(pin "2" (uuid "d8ec1d80-6616-4d72-a619-ab209aa2cc72"))
+		(instances
+			(project ""
+				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
+					(reference "R4")
 					(unit 1)
 				)
 			)
