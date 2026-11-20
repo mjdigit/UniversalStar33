@@ -2004,6 +2004,12 @@
 		(uuid "f3fa0786-f0e1-4ae2-a1f3-98a2e0e926f0")
 	)
 	(junction
+		(at 110.49 24.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f6390b05-b226-4a58-89db-566b431760a9")
+	)
+	(junction
 		(at 120.65 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2047,6 +2053,40 @@
 		(at 135.89 43.18)
 		(uuid "fe40d902-2ebb-499d-a6da-394fb9000614")
 	)
+	(junction
+		(at 110.49 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b357eab4-bf48-4922-a7da-ad339ffe26bb")
+	)
+	(junction
+		(at 120.65 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "836a79b4-3e1b-4b86-9295-cb70ee0f4af2")
+	)
+
+	(wire
+		(pts
+			(xy 110.49 29.21) (xy 111.76 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f214815-1ac2-452d-b6e7-01a75aa6770c")
+	)
+	(wire
+		(pts
+			(xy 119.38 29.21) (xy 120.65 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67bf34ff-4916-420c-9973-37b29936d5db")
+	)
+
 	(wire
 		(pts
 			(xy 31.75 45.72) (xy 35.56 45.72)
@@ -3085,6 +3125,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3V3"
+		(shape input)
+		(at 110.49 24.13 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a770de6b-3b5e-48f1-828e-565d1148ec4b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 116.9828 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -7591,6 +7653,128 @@
 			(project ""
 				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 115.57 29.21 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "21bdae46-37c4-4f19-9491-987eb0de63a4")
+		(property "Reference" "C2"
+			(at 111.76 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100nF 50V X7R 0603"
+			(at 119.38 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 119.38 23.1648 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C14663"
+			(at 115.57 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100 nF 50 V X7R 10% 0603 MLCC, JLCPCB Basic part"
+			(at 115.57 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 115.57 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
+			(at 115.57 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "JLCPCB/LCSC"
+			(at 115.57 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C14663"
+			(at 115.57 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C14663"
+			(at 115.57 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
+			(at 115.57 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "228dd64f-b100-450b-93bd-718a04d40bfd")
+		)
+		(pin "2"
+			(uuid "08d5c8c6-68d4-4074-9771-1e4273005b10")
+		)
+		(instances
+			(project ""
+				(path "/9ed34481-f64a-41f7-ba25-41be16308c74"
+					(reference "C2")
 					(unit 1)
 				)
 			)
