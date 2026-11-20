@@ -7963,7 +7963,7 @@
 				)
 			)
 		)
-		(property "Value" "1k 1% 0603"
+		(property "Value" "2.2k 1% 0603"
 			(at 115.57 31.75 90)
 			(effects
 				(font
@@ -7980,7 +7980,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/C21190"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C4190"
 			(at 115.57 35.56 0)
 			(effects
 				(font
@@ -7989,7 +7989,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1 kOhm 1% 0.1 W 0603 thick-film resistor, JLCPCB Basic part"
+		(property "Description" "2.2 kOhm 1% 0.1 W 0603 thick-film resistor, JLCPCB Basic part"
 			(at 115.57 35.56 0)
 			(effects
 				(font
@@ -8007,7 +8007,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "0603WAF1001T5E"
+		(property "Manufacturer Part" "0603WAF2201T5E"
 			(at 115.57 35.56 0)
 			(effects
 				(font
@@ -8025,7 +8025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier Part" "C21190"
+		(property "Supplier Part" "C4190"
 			(at 115.57 35.56 0)
 			(effects
 				(font
@@ -8034,7 +8034,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C21190"
+		(property "LCSC Part #" "C4190"
 			(at 115.57 35.56 0)
 			(effects
 				(font
@@ -8043,7 +8043,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C21190"
+		(property "JLCPCB Part #" "C4190"
 			(at 115.57 35.56 0)
 			(effects
 				(font
@@ -8717,7 +8717,7 @@
 				)
 			)
 		)
-		(property "Value" "1k 1% 0603"
+		(property "Value" "2.2k 1% 0603"
 			(at 115.57 41.91 90)
 			(effects
 				(font
@@ -8734,7 +8734,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/C21190"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C4190"
 			(at 115.57 45.72 0)
 			(effects
 				(font
@@ -8743,7 +8743,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1 kOhm 1% 0.1 W 0603 thick-film resistor, JLCPCB Basic part"
+		(property "Description" "2.2 kOhm 1% 0.1 W 0603 thick-film resistor, JLCPCB Basic part"
 			(at 115.57 45.72 0)
 			(effects
 				(font
@@ -8761,7 +8761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "0603WAF1001T5E"
+		(property "Manufacturer Part" "0603WAF2201T5E"
 			(at 115.57 45.72 0)
 			(effects
 				(font
@@ -8779,7 +8779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier Part" "C21190"
+		(property "Supplier Part" "C4190"
 			(at 115.57 45.72 0)
 			(effects
 				(font
@@ -8788,7 +8788,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C21190"
+		(property "LCSC Part #" "C4190"
 			(at 115.57 45.72 0)
 			(effects
 				(font
@@ -8797,7 +8797,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C21190"
+		(property "JLCPCB Part #" "C4190"
 			(at 115.57 45.72 0)
 			(effects
 				(font

@@ -11105,7 +11105,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "21d5dd58-3180-44f4-9484-01588377dead")
-		(at 162.5 54.5 180)
+		(at 140 58.5 180)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
@@ -30137,7 +30137,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1k 1% 0603"
+		(property "Value" "2.2k 1% 0603"
 			(at 0 -3 0)
 			(layer "B.Fab")
 			(uuid "98c53022-257c-4914-acdb-40155b45b02e")
@@ -30149,7 +30149,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/C21190"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C4190"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -30162,7 +30162,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "1 kOhm 1% 0.1 W 0603 thick-film resistor, JLCPCB Basic part"
+		(property "Description" "2.2 kOhm 1% 0.1 W 0603 thick-film resistor, JLCPCB Basic part"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -30187,7 +30187,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "0603WAF1001T5E"
+		(property "Manufacturer Part" "0603WAF2201T5E"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -30211,7 +30211,7 @@
 				)
 			)
 		)
-		(property "Supplier Part" "C21190"
+		(property "Supplier Part" "C4190"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -30223,7 +30223,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C21190"
+		(property "LCSC Part #" "C4190"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -30235,7 +30235,7 @@
 				)
 			)
 		)
-		(property "JLCPCB Part #" "C21190"
+		(property "JLCPCB Part #" "C4190"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -40209,7 +40209,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1k 1% 0603"
+		(property "Value" "2.2k 1% 0603"
 			(at 3 -1.43 0)
 			(layer "B.Fab")
 			(uuid "3b15ac07-ef77-46b6-be10-ea1a0bb15891")
@@ -40221,7 +40221,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/C21190"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/C4190"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -40234,7 +40234,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "1 kOhm 1% 0.1 W 0603 thick-film resistor, JLCPCB Basic part"
+		(property "Description" "2.2 kOhm 1% 0.1 W 0603 thick-film resistor, JLCPCB Basic part"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -40259,7 +40259,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "0603WAF1001T5E"
+		(property "Manufacturer Part" "0603WAF2201T5E"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -40283,7 +40283,7 @@
 				)
 			)
 		)
-		(property "Supplier Part" "C21190"
+		(property "Supplier Part" "C4190"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -40295,7 +40295,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C21190"
+		(property "LCSC Part #" "C4190"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -40307,7 +40307,7 @@
 				)
 			)
 		)
-		(property "JLCPCB Part #" "C21190"
+		(property "JLCPCB Part #" "C4190"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -53659,6 +53659,31 @@
 		(net 1)
 		(uuid "fb07ee36-9962-49af-baff-ba5511322ce8")
 	)
+	(segment
+		(start 139.225 58.5)
+		(end 139.225 61.2)
+		(width 0.5)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "cdad5c94-edbf-4cfb-ad8f-12266a1f1fc7")
+	)
+	(segment
+		(start 140.775 58.5)
+		(end 140.775 60.5)
+		(width 0.5)
+		(layer "B.Cu")
+		(net 2)
+		(uuid "a4485ad9-644e-4c99-a364-34ed6d4ab0b8")
+	)
+	(via
+		(at 139.225 58.5)
+		(size 0.65)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 1)
+		(uuid "9ae3816b-298e-4e8a-b117-c0ff11cc1d30")
+	)
+
 	(via
 		(at 172 51.5)
 		(size 0.65)
@@ -53684,28 +53709,12 @@
 		(uuid "f1b90c25-d65c-43f6-8726-c553d88ce627")
 	)
 	(segment
-		(start 161.6375 54.5)
-		(end 164.6375 51.5)
-		(width 0.4)
-		(layer "B.Cu")
-		(net 1)
-		(uuid "4cfeb6ea-d0ad-453d-972e-6aee8529ba93")
-	)
-	(segment
 		(start 130.626167 56.727386)
 		(end 132.040167 55.313386)
-		(width 0.15)
+		(width 0.2)
 		(layer "B.Cu")
 		(net 1)
 		(uuid "51493f8b-1402-4481-99b4-98d77eb407f7")
-	)
-	(segment
-		(start 164.6375 51.5)
-		(end 169.5 51.5)
-		(width 0.4)
-		(layer "B.Cu")
-		(net 1)
-		(uuid "ad44ec38-2fae-4cf8-b228-7aa13f6c5142")
 	)
 	(segment
 		(start 172 51.5)
@@ -53822,7 +53831,7 @@
 	(segment
 		(start 130.272614 56.373833)
 		(end 128.858614 57.787833)
-		(width 0.15)
+		(width 0.2)
 		(layer "B.Cu")
 		(net 2)
 		(uuid "0ee4f5f5-c3bd-4b6b-92b5-fe437aabdd76")
@@ -53868,14 +53877,6 @@
 		(uuid "d938cee9-0de6-4a36-9a62-38c4cf0417cd")
 	)
 	(segment
-		(start 163.3625 54.5)
-		(end 163.3625 58.5)
-		(width 0.4)
-		(layer "B.Cu")
-		(net 2)
-		(uuid "daa23a5e-08a1-44c7-b3ca-17fa6d512730")
-	)
-	(segment
 		(start 159.9125 54.5)
 		(end 159.9125 58.5)
 		(width 0.4)
@@ -53902,7 +53903,7 @@
 	(segment
 		(start 128.858614 57.787833)
 		(end 127.444614 59.201833)
-		(width 0.15)
+		(width 0.2)
 		(layer "B.Cu")
 		(net 2)
 		(uuid "f043f932-792e-4d3e-a72c-f75564c71921")
@@ -56326,7 +56327,7 @@
 	(segment
 		(start 129.565507 55.666726)
 		(end 130.979506 54.252725)
-		(width 0.15)
+		(width 0.2)
 		(layer "B.Cu")
 		(net 42)
 		(uuid "6b06fad7-ebdc-4150-8fe8-b3a38fc37b36")
@@ -56422,7 +56423,7 @@
 	(segment
 		(start 129.91906 56.02028)
 		(end 128.787903 57.151437)
-		(width 0.15)
+		(width 0.2)
 		(layer "B.Cu")
 		(net 43)
 		(uuid "4c17d491-11a0-4274-b6cd-ba215d53bea6")
@@ -56430,7 +56431,7 @@
 	(segment
 		(start 128.787903 57.151437)
 		(end 128.222217 57.151437)
-		(width 0.15)
+		(width 0.2)
 		(layer "B.Cu")
 		(net 43)
 		(uuid "7affa1c3-0631-456b-8e8b-379af4e7ad7c")
@@ -56438,7 +56439,7 @@
 	(segment
 		(start 128.222217 57.151437)
 		(end 127.00506 55.93428)
-		(width 0.15)
+		(width 0.2)
 		(layer "B.Cu")
 		(net 43)
 		(uuid "c38af8cf-0123-4ca9-985a-68d61322821a")
