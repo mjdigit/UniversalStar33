@@ -9328,7 +9328,7 @@
 				)
 			)
 		)
-		(property "Footprint" "isw-kbd:RP2040-Zero"
+		(property "Footprint" "UniversalStar33:RP2040-Zero-THT-SMD"
 			(at 48.26 22.86 0)
 			(effects
 				(font
