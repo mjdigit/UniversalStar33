@@ -8263,7 +8263,7 @@
 		(layer "Edge.Cuts")
 		(uuid "e8c61cef-cfa2-4109-bc58-62913c7274a9")
 	)
-	(gr_text "UniversalStar33 v0.1  Design by @MJDigit"
+	(gr_text "UniversalStar33 v0.2  Design by @MJDigit"
 		(at 23 48.5 270)
 		(layer "F.SilkS")
 		(uuid "7f519c20-edb2-41bf-9868-0b4afc854e99")
