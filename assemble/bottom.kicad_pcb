@@ -529,8 +529,8 @@
 		(embedded_fonts no)
 	)
 	(gr_circle
-		(center 25 79.3)
-		(end 27.5 79.3)
+		(center 27 76.8)
+		(end 32 76.8)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -540,8 +540,8 @@
 		(uuid "12b41fd1-8157-4965-88c6-253494de23da")
 	)
 	(gr_circle
-		(center 272 26.599999)
-		(end 274.5 26.599999)
+		(center 270 29.1)
+		(end 275 29.1)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -551,8 +551,8 @@
 		(uuid "30f44e70-a063-4df4-856b-5f92d30f8d7e")
 	)
 	(gr_circle
-		(center 148.5 79.3)
-		(end 151 79.3)
+		(center 148.5 76.8)
+		(end 153.5 76.8)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -562,8 +562,8 @@
 		(uuid "53eef3e3-ea05-40e5-8f59-81074c443aa1")
 	)
 	(gr_circle
-		(center 148.5 26.599999)
-		(end 151 26.599999)
+		(center 148.5 29.1)
+		(end 153.5 29.1)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -573,8 +573,8 @@
 		(uuid "e0bd8f65-7ee8-49e6-ae66-95b09037db38")
 	)
 	(gr_circle
-		(center 25 26.599999)
-		(end 27.5 26.599999)
+		(center 27 29.1)
+		(end 32 29.1)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -584,8 +584,8 @@
 		(uuid "ef34725d-e7eb-4afd-be3b-5a6ae0783d68")
 	)
 	(gr_circle
-		(center 272 79.3)
-		(end 274.5 79.3)
+		(center 270 76.8)
+		(end 275 76.8)
 		(stroke
 			(width 0.1)
 			(type solid)
